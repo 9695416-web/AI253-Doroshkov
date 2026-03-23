@@ -1,0 +1,15 @@
+Doroshkov Rodion
+echo "AI-253" >> Doroshkov_1
+echo "AI-253" >> Doroshkov_1
+pwd > Rodion_2
+whoami >> Rodion_2
+cat Doroshkov_1 Rodion_2 > Doroshkov_Rodion.cat.txt
+paste Doroshkov_1 Rodion_2 > Doroshkov_Rodion.paste.txt
+ді -д
+ls -l
+[A
+
+ls -l
+ls -l
+/c/Users/Admin/AI253-Doroshkov/Laboratory-work-3
+Admin
