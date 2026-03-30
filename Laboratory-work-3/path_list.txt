@@ -1,0 +1,23 @@
+/c/Users/Admin/bin
+/mingw64/bin
+/usr/local/bin
+/usr/bin
+/bin
+/mingw64/bin
+/usr/bin
+/c/Users/Admin/bin
+/c/Program Files (x86)/Common Files/Oracle/Java/javapath
+/c/WINDOWS/system32
+/c/WINDOWS
+/c/WINDOWS/System32/Wbem
+/c/WINDOWS/System32/WindowsPowerShell/v1.0
+/c/WINDOWS/System32/OpenSSH
+/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR
+/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common
+/c/Program Files/dotnet
+/cmd
+/c/Users/Admin/AppData/Local/Microsoft/WindowsApps
+/c/Users/Admin/.dotnet/tools
+/c/Users/Admin/AppData/Local/Programs/cursor/resources/app/bin
+/usr/bin/vendor_perl
+/usr/bin/core_perl
