@@ -1,0 +1,7 @@
+root:x:0:
+bin:x:1:
+daemon:x:2:
+sys:x:3:
+adm:x:4:
+tty:x:5:
+dir:x:7:doroshkov
